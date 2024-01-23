@@ -2,6 +2,12 @@
 
 I'm a versatile engineering professional transitioning into Data Science. My goal is to expand my network, learn from seasoned professionals, and showcase my skills. I'm enthusiastic about collaborating and innovating in the field of data science. Let's connect and create something impactful together!
 
+## 📈 My Skills
+- **Languages & Frameworks:** Python, SQL, TensorFlow, Scikit-learn, Pandas, NumPy, Plotly, Matplotlib, Seaborn, RegEx, FastAPI, Streamlit, NetworkX
+- **Techniques:** Machine Learning, Statistical Modeling, NLP, Time Series Analysis, Hypothesis Testing, Forecasting, Social Network Analysis
+- **Tools:** Tableau, Looker Studio, Kibana, ElasticSearch, Docker, Airflow, Google Colab, BigQuery, Postman, Git, Microsoft Excel, AutoCAD, OriginLab, Gephi
+- **General Skills:** Project Management, Exploratory Data Analysis, Data Storytelling
+
 ## 🌟 Featured Projects
 Here are some of the projects I've worked on:
 
