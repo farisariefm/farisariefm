@@ -22,7 +22,7 @@ Here are some of the projects I've worked on:
    - [View Repository](https://github.com/farisariefm/BCG-Data-Science-Job-Simulation)
 
 5. **Sentiment Analysis of Prabowo-Gibran's Presidential Candidacy**
-   - Conducted sentiment analysis on social media and online news portals regarding the political alliance in Indonesia.
+   - Conducted sentiment analysis on social media and online news portals regarding the political alliance of Prabowo Subianto and Gibran Rakabuming Raka as the candidates for President and Vice President of Indonesia.
    - [View Repository](https://github.com/achmaddhani/sentiment-webscrape)
 
 6. **Accenture Data Analytics and Visualization Job Simulation**
