@@ -4,8 +4,8 @@ I'm a versatile engineering professional transitioning into Data Science. My goa
 
 ## 📈 My Skills
 - **Languages & Frameworks:** Python, SQL, TensorFlow, Scikit-learn, Pandas, NumPy, Plotly, Matplotlib, Seaborn, RegEx, FastAPI, Streamlit, NetworkX
-- **Techniques:** Machine Learning, Statistical Modeling, NLP, Time Series Analysis, Hypothesis Testing, Forecasting, Social Network Analysis
-- **Tools:** Tableau, Looker Studio, Kibana, ElasticSearch, Docker, Airflow, Google Colab, BigQuery, Postman, Git, Microsoft Excel, AutoCAD, OriginLab, Gephi
+- **Techniques:** Machine Learning, Statistical Modeling, NLP, Time Series Analysis, Hypothesis Testing, Correlation Analysis, Forecasting, Social Network Analysis
+- **Tools:** Tableau, Looker Studio, Kibana, ElasticSearch, Docker, Airflow, Google Colab, BigQuery, Postman, Git, Microsoft Excel, Microsoft Powerpoint, AutoCAD, OriginLab, Gephi
 - **General Skills:** Project Management, Exploratory Data Analysis, Data Storytelling
 
 ## 🌟 Featured Projects
