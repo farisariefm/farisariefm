@@ -36,7 +36,7 @@ Here are some of the projects I've worked on:
    - [View Repository](https://github.com/farisariefm/Accenture-Data-Analytics-Job-Simulation)
 
 ## 📫 How to Reach Me
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/faris-arief-mawardi/) or email me at [farismawardi96@gmail.com](mailto:your-email).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/faris-arief-mawardi/) or email me at [farismawardi96@gmail.com](mailto:farismawardi96@gmail.com).
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=farisariefm&show_icons=true)
